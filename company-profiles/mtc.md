@@ -6,7 +6,7 @@ Formed in 1999, and based in Edinburgh and Dundee, mtc offers a completely round
 
 ## Company size
 
-~100
+120+
 
 ## Remote status
 
@@ -16,11 +16,13 @@ Those working remote are also invited annually to work and meet fellow team memb
 
 ## Region
 
-We primarily accept applications from the UK and European countries, as we work best with an overlap of ~5hrs with offices in Scotland.
+We primarily accept applications from the UK and European countries, but accept worldwide. We feel we work best with an overlap of ~5hrs with offices in Scotland.
 
 ## Company technologies
 
 For backend we mainly adopt Linux, Apache, MySQL & PHP - utilizing the Laravel framework for more recent projects. We also have built our own custom CMS, eCommerce platform and other tools that we utilise daily.
+
+We often adopt open-source CMSs as required namely Wordpress, Drupal, and Magento 2.
 
 Front-end uses LESS/jQuery/VueJS.
 
@@ -36,4 +38,4 @@ We also develop applications for iOS and Android with Swift/Java.
 
 Email jobs@mtcmedia.co.uk
 
-We also have a list of current apportunties at http://www.mtcmedia.co.uk/careers. While most will list Dundee/Edinburgh we still still review remote candidates.
+We also have a list of current apportunties at http://www.mtcmedia.co.uk/careers. While most will list Dundee/Edinburgh we still still review remote candidates equally.
